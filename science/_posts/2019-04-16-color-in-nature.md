@@ -1,0 +1,53 @@
+---
+layout: post
+title: The Vibrance of Natural Color
+featured: false
+author: alison-koontz
+tags: [color, pigment, light]
+image: '/media/posts/2019-04-16-color-in-nature/cover.jpeg'
+blurb: Nature produces colors with an intensity and diversity that humans have tried to replicate for centuries 
+editor: Aditi Narayanan, Milan Cvitkovic
+published: true
+rec1: Stolen
+rec2: "Life in the Abyss: Exploring the Deep Recesses of our Oceans" 
+rec3: How Synthetic Biologists Could Save the Cavendish Banana from the Brink of Collapse
+---
+
+Charles Darwin always carried one particular book. During his five year voyage on The HMS Beagle, that eventually led to the modern concept of species evolution, Darwin relied upon “Werner’s Nomenclature of Colors” to aid in his species descriptions. Published in 1814 by Scottish artist Abraham Gottlob Werner, this book was invaluable for naturalists at the time, as correct identification of fauna, flora, and animals required precise references for the abundance of colors found in nature. Using hundreds of color samples with unique names such as Flaxflower Blue, Orpiment Orange, and Broccoli Brown, naturalists could standardize the vast amount of colors found in nature.
+
+{% include embed-image.html image='/media/posts/2019-04-16-color-in-nature/werner-nomenclature.png' caption= 'Examples of color palettes from Werner’s Nomenclature of Colors' credit='Abraham Gottlob Werner, Smithsonian Books' %}
+
+The world is filled with an amazing variety of colors, ranging from the pinks and purples of a sunrise to the crystal clear blue of an Italian sea. How does nature produce this miraculous array, and how have humans attempted to replicate this beauty? To begin, we must address what color actually is. Colors are wavelengths of light that are within a visible range for the human eye. The light reflected by a colored object travels in waves, much like ripples on the surface of water, and emits a signature wavelength. “<a href="https://caltechletters.org/science/color-perception" target="_blank">Rods and cones</a>” within the human retina are able to translate these waves to us visually as colors. Waves that travel more closely together produce shorter wavelengths, which are measured by the distance between successive crests of waves. Red, at 635 nanometers (nm) (635 billionths of a meter) and higher, is the color with the longest wavelength and blue and purple, around 400 to 500 nm, have the shortest. When sunlight beams down on Earth and reflects off of the natural world, the light bounces off at wavelengths corresponding to various colors, and our eyes pick up on these colors. Note that color is a result of wavelengths that are reflected, not absorbed, by an object; everything you see is a filter, catching some wavelengths of light and reflecting the rest back to your eyes.
+
+{% include embed-image.html image='/media/posts/2019-04-16-color-in-nature/light-spectrum.png' caption= 'A chart plotting the frequency of the wavelengths for various colors (in nm). Note reds have the lowest frequency (largeset wavelength) while blues and violets have highest frequency (smallest wavelength).' credit='Gunnar Optiks, Maximizing Work Performance' %}
+ 
+How do objects absorb some wavelengths and emit others? An object’s natural colors are often determined by the structure of the chemicals within. Some of the most common molecules in nature are carotenoids, chlorophyll, and anthocyanin, which are known collectively as pigments due to their color-producing properties and are responsible for various shades of orange, green, and purple.
+
+Think of a green field in summer, lush with life. Green is often associated with growth, as every spring we see life renew as green shoots burst from trees. The pigment chlorophyll is responsible for this vibrant regeneration, and is found in all green plants. Chlorophyll is an essential component of the process of photosynthesis, which is responsible for plants’ ability to turn sunlight into food. Sunlight is composed of the variety of colors that range between the wavelengths of 400 and 700 nanometers, yet chlorophyll can only use red light and blue light in photosynthesis. These wavelengths are absorbed by the plant to make sugars, and the unused green light is reflected back to the external world, making the plant appear green!
+ 
+{% include embed-image.html image='/media/posts/2019-04-16-color-in-nature/autumn-leaves.png' caption= 'Examples of the various colors seen in autumn leaves. These different colors are produced due to varying production of both chlorophyll and carotenoids in the leaves.' credit='Stock Photo, Pexels' %}
+
+Now think of a beautiful autumnal forest scene, red and orange and yellow leaves drifting slowly off of tired branches preparing for winter. Those colors are all the result of carotenoids. Carotenoids are a secondary pigment in photosynthesis and are able to absorb blue light, while light in the spectrum from red to yellow is reflected back. Due to its reduced ability to absorb different wavelengths, however, it is far less efficient at harvesting energy than chlorophyll is, and generally only becomes the primary pigment of photosynthesis when the leaf’s chlorophyll reserves are used up. In an autumn leaf, the color is produced by carotenoids that are being made in the leaf when chlorophyll is not. 
+
+Ever wonder where the bright blues and violets of blueberries or blackberries come from? Purples are associated with royalty and abundance, and in nature are a result of anthocyanin. Anthocyanin is thought to fight reactive oxygen species, chemically reactive compounds that are associated with cell death and DNA damage, leading to aging and diseases, like cancer. You may have heard that blueberries and black rice are particularly healthy because of their <a href="https://www.tandfonline.com/doi/abs/10.1080/16546628.2017.1361779" target="_blank">antioxidant properties</a>. This has to do with anthocyanins and their role in controlling reactive oxygen levels. The purple color that is produced through absorption of orange to green wavelengths may also be a survival strategy. Animals have evolved to eat plants that are bright green and are less likely to eat purple plants.
+
+{% include embed-image.html image='/media/posts/2019-04-16-color-in-nature/grapes.png' caption= 'These grapes are full of anthocyanins, evident by their deep violet color.' credit='Stock Photo, Pexels' %}
+
+These and many other chemical compounds create unique colors through absorbing certain light wavelengths and reflecting others. However, another intrinsic component of color production is the physical structure of the colored surface itself. The structure of a surface can manipulate the way that light reflects off of it, which can also cause drastic variations in the color produced. The structure of bird wings, butterfly wings, and flowers such as buttercups produce novel natural colors through structural manipulation of light. 
+
+A classic example is a peacock’s feathers. If you looked at the pigment of a peacock feather alone, you would think all peacock feathers should be brown. This is obviously not the case. Instead, the <a href="https://en.wikipedia.org/wiki/Structural_coloration" target="_blank">structure</a> of the feather itself interferes with the light and creates colors besides those of natural pigments. A peacock feather is made up of many small, flat branches that are pocked with bowl-shaped indentations. Upon closer inspection, these branches are also covered with microscopic lamellae, or thin plate-like layers, that create a scattering effect on the light that shines on the feather. <a href="http://www.atmo.arizona.edu/students/courselinks/spring08/atmo336s1/courses/fall13/atmo170a1s3/1S1P_stuff/scattering_of_light/scattering_of_light.html" target="_blank">Light scattering</a> is the effect of the shape and structure of a surface on the way light is reflected. 
+
+{% include embed-image.html image='/media/posts/2019-04-16-color-in-nature/peacock-feather.png' caption= 'A 500x magnified image of a peacock feather shows not only a vibrance of color, but also the structural indentations that are responsible for these colors.' credit='Waldo Nell Photography' %}
+
+For instance, the sky is blue because tiny particles in the air are scattering light! Light scattering preferentially reflects shorter wavelengths, such as blues and violets. In peacocks, the blues and greens are a result of light scattering by the structured surface of the feather. 
+
+{% include embed-image.html image='/media/posts/2019-04-16-color-in-nature/thin-film.png' caption= 'The color reflected by a peacock feather, i.e. the way the light is scattered, depends on the angle at which the light reaches it. The symbol µm refers to micrometers; one micrometer is one-tenth of a millimeter.' credit='Wonder Whiz Kids' %}
+
+The most intense natural color known to humans, the bright and <a href="https://www.smithsonianmag.com/science-nature/this-african-fruit-produces-the-worlds-most-intense-natural-color-30070457/" target="_blank">iridescent blue of the marble berry</a>, is also result of structural coloration. The berries have no pigment, but their cuticle is composed of small microstructures set in a spiral. These structures act like a mirror and manipulate the light to produce a unique, memorable blue. 
+
+{% include embed-image.html image='/media/posts/2019-04-16-color-in-nature/marble-berry.png' caption= 'These marble berries are around four millimeters in diameter and are known for their bright blue iridescence. This color is a result of their microscopic cellular structure (right), which scatters white light into various colors.' credit='Vignolini et al., 2012, PNAS' %}
+
+Although these beautiful color variations occur naturally within our world, humans have always desired to replicate these colors for their own use. The dye industry has existed for over 5000 years. Dyes were originally made by extracting  pigments produced in nature. The rise of synthetic dyes began in the 1850s, when chemist William Henry Perkins, in an attempt to chemically synthesize quinine, instead serendipitously stumbled across the first synthetic purple pigment. He quickly patented his discovery and started mass-producing mauve dye for the textile industry. 
+Since mauve, many synthetic dyes have been introduced into the modern textile industry, and we are surrounded constantly by artificial colors and glaring fashions. 
+
+Sometimes it is nice to be reminded that humans are only trying to copy the beauty of the natural world; as we artificially produce our own colors, nature has an amazing way of producing her own that we may never be able to replicate.

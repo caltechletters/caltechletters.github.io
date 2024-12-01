@@ -1,0 +1,22 @@
+/*------------------------------------*\
+  Components > Social Navigation
+\*------------------------------------*/
+
+.c-social-nav {
+  &__item {
+    display:block;
+    @media only screen and (min-width: 725px) {
+      display: inline-block;
+    }
+  }
+
+  &__icon {
+    fill: $color-text;
+    vertical-align: middle;
+    transition: $global-transition;
+
+    @include attention() {
+      fill: $color-brand;
+    }
+  }
+}

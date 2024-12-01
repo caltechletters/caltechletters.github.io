@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--left'>
+        {% assign author = site.data.authors[page.author] %}
+        {% assign shortname = page.author %}
+        {% include author.html %}
+        {% if page.coauthor %}
+            <br class='c-author-br'>
+            {% assign author = site.data.authors[page.coauthor] %}
+            {% assign shortname = page.coauthor %}
+            {% include author.html %}
+        {% endif %}
+
+        {% if page.editor %}
+            <br class='c-author-br'>
+            <p class='c-author__bio' style='text-align: left;'>Edited by {{ page.editor }}</p>
+        {% endif %}
+
+        <hr>
+        {% include subscribe-form.html %}
+        <hr>
+        {% include share.html %}
+	<hr>
+		{% include suggestions.html %}
+    </div>
+    <div class='o-grid__col o-grid__col--3-5-m o-grid__col--center'>
+      <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
+
+        <h1 class='c-post__title u-text-center'>{{ page.title }}</h1>
+        <span class='c-post__meta'>
+          <time datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%B %d, %Y' }}</time>
+        </span>
+
+
+        <div class='c-content__post' itemprop='articleBody'>
+          <!-- {% include page-image.html %} -->
+          {{ content }}
+          <div class='c-tags'>
+              {% for tag in page.tags %}
+                <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ","-" }}'>{{ tag }}</a>
+              {% endfor %}
+          </div>
+        </div>
+        <div class='o-grid__col o-grid__col--1-4-m o-grid__col--full o-grid__col--not-left'>
+          <hr>
+          {% include share.html %}
+          <hr>
+          {% assign author = site.data.authors[page.author] %}
+          {% assign shortname = page.author %}
+          {% include author.html %}
+          {% if page.coauthor %}
+             <br class='c-author-br'>
+             {% assign author = site.data.authors[page.coauthor] %}
+             {% assign shortname = page.coauthor %}
+             {% include author.html %}
+          {% endif %}
+          {% if page.editor %}
+            <br class='c-author-br'>
+            <p class='c-author__bio' style='text-align: left;'>Editor: {{ page.editor }}</p>
+          {% endif %}
+          <hr>
+          {% include subscribe-form.html %}
+	  <hr>
+		  {% include suggestions.html %}
+        </div>
+        <hr>
+        {% include fb-comments.html %}
+
+      </article>
+
+    </div>
+  </div>
+</div>

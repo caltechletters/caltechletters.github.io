@@ -1,0 +1,13 @@
+---
+layout: default
+title: Science
+order: 1
+---
+
+<div class='o-wrapper'>
+  <div class='o-grid js-grid'>
+    {% for post in site.categories.science %}
+      {% include post-card.html %}
+    {% endfor %}
+  </div>
+</div>

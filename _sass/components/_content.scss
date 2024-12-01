@@ -1,0 +1,88 @@
+/*------------------------------------*\
+  Components > Content
+\*------------------------------------*/
+
+.c-content {
+  p {
+    font-family: Merriweather,Georgia,serif;
+    color: $color-text;
+    font-size: $font-size-medium;
+    font-family: $font-serif;
+    font-weight: $font-weight-regular;
+    line-height: $line-height-medium;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  &__post > p:first-of-type:first-letter, 
+  &__post > p > span.first-letter {
+        float: left;
+        font-family: Georgia;
+        font-size: 60px;
+        line-height: 47px;
+        padding-top: 4px;
+        padding-right: 8px;
+        padding-left: 3px;
+  }
+
+  &__image {
+    margin: 0em auto $base-spacing-unit; 
+  }
+
+  &__image-caption {
+    font-size: $font-size-small;
+    font-family: $font-sans-serif;
+    line-height: $line-height-small;
+    margin-bottom: quarter($base-spacing-unit);
+  }
+
+  &__image-credit {
+    font-size: $font-size-tiny;
+    font-family: $font-sans-serif;
+    line-height: $line-height-small;
+    color: $color-gray;
+    a { color: $color-gray; }
+
+  }
+
+ /*a {
+    text-decoration: underline;
+ }*/
+
+/*  a:not(.c-btn, .c-source) {
+    background-image: linear-gradient(to bottom, $color-text, $color-text);
+    text-shadow: -1px -1px 0 $color-link-shadow,
+                  1px -1px 0 $color-link-shadow,
+                 -1px  1px 0 $color-link-shadow,
+                  1px  1px 0 $color-link-shadow;
+    background-repeat: repeat-x;
+    background-size: 1px 1px;
+    background-position: 0 96%;
+    text-decoration: none;
+  }
+  a:not(.c-btn, .c-source):hover {
+    background-image: linear-gradient(to bottom, $color-link-hover, $color-link-hover);
+  }*/
+  
+  p, ul, ol {
+      margin-bottom: 3em;
+    }
+
+  &__small {
+    font-size: $font-size-tiny;
+  }
+
+  li {
+      margin: 0 1em 1em;
+    } 
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 1em;
+  }
+
+}

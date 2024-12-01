@@ -1,0 +1,3 @@
+{% if page.image %}
+  <img class='c-content__image' src='{{ page.image | prepend: site.baseurl }}' alt='{{ page.title }}' {% if page.image-caption %}title="{{ page.image-caption }}"{% endif %}>
+{% endif %}

@@ -1,0 +1,45 @@
+---
+layout: post
+title: "In Memory of Cassidy Yang, Class of 2016"
+author: jiseon-min
+tags: [memoriam, alumni, caltech]
+blurb: "Jiseon Min remembers her friend and Caltech alumna Cassidy Yang."
+image: '/media/posts/2021-05-18-memory-of-cassidy/Cassidy_1.jpg'
+editor: Giuliana Viglione
+published: true
+rec1: "Where Science Stops"
+rec2: Snowballs in the Desert 
+rec3: The Autonomous Future of Science
+---
+
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+
+{% include embed-image.html image='/media/posts/2021-05-18-memory-of-cassidy/Cassidy_1.jpg'%}
+
+<span class="first-letter">I</span> first met Cassidy in the fall of 2014. I was a freshman and she was a junior, and we were the only two women majoring in physics in Avery House. My first impression of Cassidy was that she was a little awkward, but nice. I remember being a little surprised when I got her email about participating in an Avery House Secret Santa: I hadn’t expected her to be involved in house-wide activities. As I got to know Cassidy better, she became like the older sister that I never had. I may not have been her closest friend, but she always offered help when I was struggling with problem sets, needed a ride to a play when I felt too anxious to ask anyone, or working on my graduate school applications. To remember who Cassidy was to me, I reflect back on the days I spent with her at Princeton in late March of 2018. 
+
+{% include embed-image.html image='/media/posts/2021-05-18-memory-of-cassidy/Cassidy_2.jpg' caption= 'Cassidy Yang (Caltech class of 2016) and her sister Angel passed away in a car accident in December 2020.'%}
+
+Cassidy was my host when I made an unofficial visit as a potential graduate student in her program. When I arrived at her apartment on the night of March 26, Cassidy told me that she was going to sleep on the couch and that I should take her bed. I asked if she was sure—I was only there to meet people, while she had to go to the lab early the next morning—but she insisted. That was so typical of Cassidy as a friend, always worrying about others first. She was even concerned that she would wake me up while getting ready in the morning. 
+
+Cassidy was in the second year of her PhD and my visit was only a day after she had flown back from a conference in Los Angeles. While I was visiting her place in Princeton, she told me about her research on the collective behavior of social bacteria called _Myxococcus_ and showed me her slides and some cool movies she had taken of the bacteria. I was amazed by Cassidy's research on these droplets full of thousands of cool, little bugs.
+
+{% include embed-image.html image='/media/posts/2021-05-18-memory-of-cassidy/Cassidy_March_meeting_presentation.jpg' caption= 'Cassidy presenting her research on Myxococcus at a conference.' %}
+
+I remember asking Cassidy what she liked to do outside of research, and she told me she enjoyed inviting people over for dinner and making food for them. At a Princeton memorial on December 8th, 2020, several of Cassidy’s friends talked about her love of hosting, describing Friendsgiving gatherings and dumpling-making events at her apartment.
+
+Cassidy also told me what it was like to be a graduate student at Princeton, and not all of her comments were positive. She told me how frustrating it was when the WiFi was broken in a graduate residence hall, and how it took a ridiculous amount of time to get it fixed. She complained about not getting enough mentorship in the department. But what I admire most about Cassidy is that she didn’t just complain about things. She understood what needed to be changed, and she never stopped taking actions to make those changes happen—often behind the scenes. 
+
+She reached out to the administrators of her department to work on making the Quantitative and Computational Biology (QCB) program better and more inclusive. Whenever there was a new member in her lab, she was the one who made sure they got to know everyone and made them feel comfortable in a new environment. She shared ideas with her colleagues, gave helpful feedback, and practiced talks with people. She was also in charge of the QCB happy hours and mentored undergraduate women in physics throughout her PhD. Cassidy knew that people needed a better support network, especially in graduate school, and she helped create one. When I told Cassidy I’d accepted a position at Harvard, she wished me the best for my PhD career. Even though I went to a different school, we knew we would keep seeing each other, since we were in the same field.
+
+{% include embed-image.html image='/media/posts/2021-05-18-memory-of-cassidy/Cassidy_Getty_group_photo.jpg' caption= 'Cassidy (front row, center) was heavily involved in Avery House activities while at Caltech, including this group trip to the Getty Center. Jiseon is on the right of the front row.' %}
+
+Cassidy changed me as well. At the end of my first year in the Harvard Molecules, Cells, and Organisms program, I had my own recruit. He had to visit on his own, since he missed the official recruitment week. When my program director told me about this, my first thought was that I should organize a dinner with my recruit and invite all my classmates, just like Cassidy had done for me. When I had visited Princeton, I had been worried because I had missed the department’s official recruitment events. But after Cassidy had invited more than 10 grad students to a dinner for just a single recruit—me—I had felt welcomed, and I hadn’t felt awkward anymore. Normally, I would have been too overwhelmed to organize an event like a big group dinner, but Cassidy made me step out of my comfort zone because her kindness and consideration had meant so much to me. 
+
+The last time I met Cassidy in person was at the American Physical Society’s (APS) March meeting in Boston in 2019. I missed her talk because I had a class that day, but she came to mine. I regret so much that I missed her presentation. We were supposed to meet again at last year’s March meeting in Denver, but the conference was cancelled at the last minute due to concerns over COVID-19. I wanted to make it to her talk this time, ask her about a new exciting paper on _Myxococcus_ that her group had published, and hang out with all of the Avery physics folks. I had no doubt that when she defended her thesis next year, we would all get together and celebrate all the great things she achieved during her PhD and what an amazing friend she was to everyone. 
+
+It has been really difficult to cope with losing Cassidy and her sister Angel so suddenly, and I can’t imagine how heartbreaking it has been for the people who spent more time with her. Yet I am truly grateful that I had Cassidy in my life. She inspired me in so many ways, and even now I am discovering more and more incredible things that she gave us by reconnecting with all the amazing people who knew her. 
+
+{% include embed-image.html image='/media/posts/2021-05-18-memory-of-cassidy/Cassidy_March_meeting_escape_room.jpg' caption= 'Cassidy and some of her friends from Princeton after successfully completing an escape room in Boston while at the March 2019 APS meeting.' %}
+
+I want to close by sharing a story about a beautiful Sunday I spent with Cassidy and two of our Avery housemates, Joseph and Yubo, during the APS meeting in March 2019 in Boston. In the morning, we were going to have brunch at Cafe Luna, but it was too crowded. Instead, we went to a cafe called Juliet. During the Lyft ride to the cafe, Yubo left his phone in the car. The driver was kind enough to drive back to return his phone. Cassidy offered to pay for the lost item fee, although Yubo wouldn’t let her. After brunch, we hung out at Joseph’s place, playing board games and hanging out with Joseph’s roommate's cat, Marbles. Cassidy brought a cute board game called Root, Yubo and I brought some desserts from a bake sale at Harvard, and Joseph baked a cake for us. We were already full from all the desserts before heading to Spring Shabu Shabu, one of the best restaurants in the city. We wanted to have an early dinner because Cassidy had signed up for an escape room that night with her Princeton friends. The restaurant was jam-packed as always, so we walked through the Petco next door while we waited. I still have a video of a guinea pig sleeping with its mouth open, which I found hilarious. We ate so much (including the ice cream for dessert) and Cassidy left early to have fun with her other group of friends. During that week, we had a big snow storm after a very warm winter. Nobody could stop complaining about the weather, but it was the most beautiful week I have ever had in Boston. And Cassidy was there. 

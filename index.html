@@ -1,0 +1,99 @@
+---
+layout: default
+title: Home
+order: -1
+---
+
+<div class='o-wrapper'>
+  <div class='o-grid js-grid'>
+    {% assign post = site.posts[0] %}
+    {% include post-card-featured.html %}
+  </div>
+ </div>
+
+ <center><h2 style="margin-bottom:0"><a href="science" style="text-decoration:none">Latest science articles</a></h2></center>
+ <div class='o-wrapper'>
+  <div class='o-grid js-grid'>
+    {% if site.posts[0] == site.categories.science[0] %}
+        {% assign post = site.categories.science[1] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.science[2] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.science[3] %}
+        <div class='o-grid__third'>
+          {% include post-card.html %}
+        </div>
+    {% else %}
+        {% assign post = site.categories.science[0] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.science[1] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.science[2] %}
+        <div class='o-grid__third'>
+          {% include post-card.html %}
+        </div>
+    {% endif %}
+  </div>
+</div>
+
+ <center><h2 style="margin-bottom:0"><a href="viewpoints" style="text-decoration:none">Latest viewpoint articles</a></h2></center>
+<div class='o-wrapper'>
+  <div class='o-grid js-grid'>
+    {% if site.posts[0] == site.categories.viewpoints[0] %}
+        {% assign post = site.categories.viewpoints[1] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.viewpoints[2] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.viewpoints[3] %}
+        <div class='o-grid__third'>
+          {% include post-card.html %}
+        </div>
+    {% else %}
+        {% assign post = site.categories.viewpoints[0] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.viewpoints[1] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.viewpoints[2] %}
+        <div class='o-grid__third'>
+          {% include post-card.html %}
+        </div>
+    {% endif %}
+  </div>
+</div>
+
+<center><h2 style="margin-bottom:0"><a href="podcasts" style="text-decoration:none">Latest podcasts</a></h2></center>
+ <div class='o-wrapper'>
+  <div class='o-grid js-grid'>
+    {% if site.posts[0] == site.categories.podcasts[0] %}
+        {% assign post = site.categories.podcasts[1] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.podcasts[2] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.podcasts[3] %}
+        <div class='o-grid__third'>
+          {% include post-card.html %}
+        </div>
+    {% else %}
+        {% assign post = site.categories.podcasts[0] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.podcasts[1] %}
+        {% include post-card.html %}
+
+        {% assign post = site.categories.podcasts[2] %}
+        <div class='o-grid__third'>
+          {% include post-card.html %}
+        </div>
+    {% endif %}
+  </div>
+</div>

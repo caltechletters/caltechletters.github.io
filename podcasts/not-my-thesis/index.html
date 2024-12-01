@@ -1,0 +1,42 @@
+---
+layout: default
+title: Not My Thesis
+order: -1
+---
+
+<div class='o-wrapper'>
+
+<div class='o-grid'>
+<div class='o-grid__col o-grid__col--3-4-m o-grid__col--center'>
+<article class='c-post'>
+<h1 class='c-post__title u-text-center'>Not My Thesis</h1>
+<div class='c-content'>
+
+
+<p>Not My Thesis is a podcast that explores all the unpublished parts of the scientific process. We interview graduate students at Caltech about what their thesis is, but also what their thesis is not. We want to understand not just what they do, but how they do it, why they do it, and how the other parts of their life all feed into their passion for science. Join us as we seek to understand science via the hearts and minds creating it.</p>
+
+<!-- <h1 class='c-post__title u-text-center'>Latest episode</h1>
+{% assign latest_pod = site.categories.not-my-thesis[0] %}
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ latest_pod.soundcloud_id }}&color=%23566270&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></p> -->
+
+<p>Not My Thesis is co-hosted and created by Heidi Klumpe and Sophia Charan.</p>
+
+<p>Contact the hosts at <a target="_blank" href="mailto:notmythesis@gmail.com">notmythesis@gmail.com</a>, follow our <a href='https://feeds.soundcloud.com/users/soundcloud:users:733932160/sounds.rss' target='_blank'>RSS feed</a>, and subscribe to us on <a target="_blank" href="https://podcasts.apple.com/us/podcast/caltech-letters/id1490801437">Apple Podcasts</a> or wherever you get your podcasts!</p>
+
+
+</div>
+<h1 class='c-post__title u-text-center'>Episodes</h1>
+</article>
+</div>
+</div>
+
+  <div class='o-grid js-grid'>
+    {% for post in site.categories.not-my-thesis %}
+      {% include post-card.html %}
+    {% endfor %}
+  </div>
+</div>
+
+<!-- <img src="../media/pages/henry.jpg">
+
+<p><center>Coming soon to eardrums near you!</center></p> -->

@@ -1,0 +1,25 @@
+/*------------------------------------*\
+  Components > Site Navigation
+\*------------------------------------*/
+
+.c-nav {
+  &__item {
+    font-size: $font-size-medium;
+    font-family: $font-sans-serif;
+  }
+
+  &__link {
+    text-decoration: none;
+    &--current {
+      text-decoration: none;
+      font-weight: bold;
+      @include attention() {
+        color: $color-text;
+      }
+    }
+
+    @include attention() {
+      color: $color-brand;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+/*------------------------------------*\
+  Components > Logo
+\*------------------------------------*/
+
+.c-logo {
+  &__link {
+    font-size: $font-size-logo;
+    text-decoration: none;
+
+    @include attention() {
+      color: $color-brand;
+    }
+  }
+
+  &__img {
+    vertical-align:middle;
+    margin: 0 auto;
+    height: 100px;
+    display: inline;
+  }
+
+  &__break {
+    display:block;
+    @media only screen and (min-width: 725px) {
+      display:inline;
+    }
+  }
+}

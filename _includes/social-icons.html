@@ -1,0 +1,40 @@
+<ul class='o-plain-list c-social-nav'>
+  {% if site.twitter_username %}
+    <li class='c-social-nav__item'>
+      <a href='https://twitter.com/{{ site.twitter_username }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
+      </a>
+    </li>
+  {% endif %}
+  {% if site.soundcloud_username %}
+    <li class='c-social-nav__item'>
+      <a href='https://soundcloud.com/{{ site.soundcloud_username }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-soundcloud' data-size='s'></span>
+      </a>
+    </li>
+  {% endif %}
+  {% if site.facebook_username %}
+    <li class='c-social-nav__item'>
+      <a href='https://facebook.com/{{ site.facebook_username }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-facebook' data-size='s'></span>
+      </a>
+    </li>
+  {% endif %}
+  {% if site.instagram_username %}
+    <li class='c-social-nav__item'>
+      <a href='https://instagram.com/{{ site.instagram_username }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
+      </a>
+    </li>
+  {% endif %}
+  <li class='c-social-nav__item'>
+  <a href='/rss'>
+    <!-- RSS feed icon by Google. License: Apache version 2.0. Modified from original. -->
+    <svg class='c-social-nav__icon' viewBox="6 10 76 76" width='25' height='25'>
+        <circle cx="31.7" cy="64.3" r="6.4"/>
+        <path  d="M25.3,25.3v8.3c20.5,0,37.1,16.6,37.1,37.1h8.3C70.7,45.6,50.4,25.3,25.3,25.3z M25.3,41.8v8.3
+        c11.4,0,20.6,9.2,20.6,20.6h8.3C54.2,54.7,41.2,41.8,25.3,41.8z"/>
+    </svg>
+  </a>
+  </li>
+</ul>

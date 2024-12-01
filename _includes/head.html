@@ -1,0 +1,29 @@
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+
+<meta property="fb:app_id"        content="1352729044845770" />
+<meta property="og:url"           content="{{ site.url }}{{ page.url}}" />
+<meta property="og:type"          content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
+<meta property="og:title"         content="{% if page.layout == 'post' %}{{ page.title }}{% else %}{% if page.title %}{{site.title}} | {{page.title}}{% else %}{{site.title}}{% endif %}{% endif %}" />
+<meta property="og:description"   content="{% if page.layout == 'post' %}{{ page.content | strip_html | truncatewords:25 }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:image"         content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}">
+
+<title>{% if page.layout == 'post' %}{{ page.title }}{% else %}{% if page.title %}{{site.title}} | {{page.title}}{% else %}{{site.title}}{% endif %}{% endif %}</title>
+<meta name='description' content="{% if page.layout == 'post' %}{{ page.content | strip_html | truncatewords:25 }}{% else %}{{ site.description }}{% endif %}">
+<link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" >
+<link rel='canonical' href="{{ site.url }}{{ page.url}}" >
+<link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<style>
+  {% capture inlineCSS %}
+    {% include app.scss %}
+  {% endcapture %}
+
+  {{ inlineCSS | scssify }}
+</style>
+
+<script>
+  var base_url = {{ site.baseurl | jsonify }};
+</script>

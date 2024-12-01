@@ -1,0 +1,14 @@
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for node in sorted_pages %}
+  {% if node.order >= 0 %}
+    {% if node.title %}
+    	<div class='o-grid__col o-grid__col--1-3-s u-text-center'>
+    	  {% if page.url == node.url %}
+              <a class='c-nav__link--current' href='{{ node.url | prepend: site.baseurl }}'>{{ node.title }}</a>
+          {% else %}
+             <a class='c-nav__link' href='{{ node.url | prepend: site.baseurl }}'>{{ node.title }}</a>
+          {% endif %}
+        </div>
+    {% endif %}
+  {% endif %}
+{% endfor %}

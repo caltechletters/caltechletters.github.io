@@ -1,0 +1,21 @@
+---
+layout: none
+# this is a hack to allow multiple subscribe forms on a single page, without their js interfering with each other. Embed this page as an iframe.
+---
+
+<html>
+  <style>
+    h5 {color: white;}
+    #mc_embed_signup #mce-error-response a {color:#e85c41;}
+
+    {% capture inlineCSS %}
+      {% include app.scss %}
+    {% endcapture %}
+
+    {{ inlineCSS | scssify }}
+  </style>
+
+  <body>
+    {% include subscribe-form.html %}
+  </body>
+</html>

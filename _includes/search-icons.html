@@ -1,0 +1,20 @@
+<ul class='o-plain-list c-social-nav'>
+  <li class='c-social-nav__item'>
+    {% if page.title == "About" %}<a class='c-nav__link--current' href='/about'>{% else %}<a class='c-nav__link' href='/about'>{% endif %}About</a>
+  </li>
+
+
+  <!--<li class='c-social-nav__item' style="padding-left: 10px">
+    {% if page.title == "Alumni" %}<a class='c-nav__link--current' href='/alumni'>{% else %}<a class='c-nav__link' href='/alumni'>{% endif %}Alumni</a>
+  </li>-->
+
+  <li class='c-social-nav__item' style="padding-left: 10px">
+    {% if page.title == "Write" %}<a class='c-nav__link--current' href='/write'>{% else %}<a class='c-nav__link' href='/write'>{% endif %}Write</a>
+  </li>
+
+  <li class='c-social-nav__item' style="padding-left: 10px">
+  <a class='toggle-search-button js-search-toggle' href='#'>
+    <span class='c-social-nav__icon' data-icon='ei-search' data-size='s'></span>
+  </a>
+  </li>
+</ul>

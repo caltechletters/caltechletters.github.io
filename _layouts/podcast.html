@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% assign author = site.data.authors[page.author] %}
+{% assign shortname = page.author %}
+
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--left'>
+        {% include author.html %}
+        <hr>
+        {% include subscribe-form.html %}
+        <hr>
+        {% include share.html %}
+    </div>
+    <div class='o-grid__col o-grid__col--3-5-m o-grid__col--center'>
+      <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
+
+        <h1 class='c-post__title u-text-center'>{{ page.title }}</h1>
+        <span class='c-post__meta'>
+          <time datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%B %d, %Y' }}</time>
+        </span>
+        <p><iframe class="c-post-card__soundcloud_embed" width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloud_id }}&color=%23566270&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></p>
+
+        <h1 class='c-post__subtitle u-text-center'>Show notes</h1>
+        <div class='c-content__post' itemprop='articleBody'>
+          <!-- {% include page-image.html %} -->
+          {{ content }}
+        </div>
+        <div class='c-tags'>
+              {% for tag in page.tags %}
+                <a href='{{ site.baseurl }}/tag/{{ tag | replace: " ","-" }}'>{{ tag }}</a>
+              {% endfor %}
+        </div>
+        <div class='o-grid__col o-grid__col--1-4-m o-grid__col--full o-grid__col--not-left'>
+          <hr>
+          {% include share.html %}
+          <hr>
+          {% include author.html %}
+          <hr>
+          {% include subscribe-form.html %}        
+        </div>
+
+        <hr>
+        {% include fb-comments.html %}
+
+      </article>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,8 @@
+<div class='c-author' id='author'>
+  <img class=c-author__img src="/media/headshots/author/{{ shortname }}.jpg"/>
+  <p class='c-author__bio'>
+    <b>{{ author.name }}</b> {{ author.bio }}
+    {% if author.web %}   
+  		<a href='{{ author.web }}' target="_blank"><span class='c-social-nav__icon' data-icon='ei-link' data-size='s'></span></a>{% endif %}{% if author.email %}<a href='mailto:{{ author.email }}'><span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span></a>{% endif %}{% if author.twitter %}<a href='https://twitter.com/{{ author.twitter }}' target="_blank"><span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span></a>{% endif %}{% if author.instagram %}<a href='https://instagram.com/{{ author.instagram }}' target="_blank"><span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span></a>{% endif %}
+  </p>
+</div>

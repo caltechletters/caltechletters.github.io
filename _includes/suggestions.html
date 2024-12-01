@@ -1,0 +1,97 @@
+{% include base_path %}
+{% if page.rec1 and page.rec2 and page.rec3 %}
+    {% for post in site.categories.viewpoints %}
+        {% if post.title == page.rec1 %}
+            {% assign r1 = post %}
+        {% elsif post.title == page.rec2 %}
+            {% assign r2 = post %}
+        {% elsif post.title == page.rec3 %}
+            {% assign r3 = post %}
+        {% endif %}
+        {% if r1 and r2 and r3 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% for post in site.categories.science %}
+        {% if r1 and r2 and r3 %}
+            {% break %}
+        {% endif %}
+        {% if post.title == page.rec1 %}
+            {% assign r1 = post %}
+        {% elsif post.title == page.rec2 %}
+            {% assign r2 = post %}
+        {% elsif post.title == page.rec3 %}
+            {% assign r3 = post %}
+        {% endif %}
+    {% endfor %}
+    <h5 class='u-text-center'>You might also like:</h5>
+    <div class='c-suggestions' id='suggestions'>
+        <a href='{{ r1.url | prepend: site.baseurl }}' class='c-suggestions-link' style='text-decoration:none; font-size:15px;' onmouseover="this.style.color='#1688f9'" onmouseout="this.style.color=''">
+            <img class=c-suggestions__img src={{ r1.image }} />
+            <p class='c-suggestions__title'><em>{{ r1.title }}</em></p>
+        </a>
+        <a href='{{ r2.url | prepend: site.baseurl }}' class='c-suggestions-link' style='text-decoration:none; font-size:15px;' onmouseover="this.style.color='#1688f9'" onmouseout="this.style.color=''">
+            <img class=c-suggestions__img src={{ r2.image }} />
+            <p class='c-suggestions__title'><em>{{ r2.title }}</em></p>
+        </a>
+        <a href='{{ r3.url | prepend: site.baseurl }}' class='c-suggestions-link' style='text-decoration:none; font-size:15px;' onmouseover="this.style.color='#1688f9'" onmouseout="this.style.color=''">
+            <img class=c-suggestions__img src={{ r3.image }} />
+            <p class='c-suggestions__title'><em>{{ r3.title }}</em></p>
+        </a>
+    </div>
+{% elsif page.rec1 and page.rec2 %}
+    {% for post in site.categories.viewpoints %}
+        {% if post.title == page.rec1 %}
+            {% assign r1 = post %}
+        {% elsif post.title == page.rec2 %}
+            {% assign r2 = post %}
+        {% endif %}
+        {% if r1 and r2 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% for post in site.categories.science %}
+        {% if r1 and r2 %}
+            {% break %}
+        {% endif %}
+        {% if post.title == page.rec1 %}
+            {% assign r1 = post %}
+        {% elsif post.title == page.rec2 %}
+            {% assign r2 = post %}
+        {% endif %}
+    {% endfor %}
+    <h5 class='u-text-center'>You might also like:</h5>
+    <div class='c-suggestions' id='suggestions'>
+        <a href='{{ r1.url | prepend: site.baseurl }}' class='c-suggestions-link' style='text-decoration:none; font-size:15px;' onmouseover="this.style.color='#1688f9'" onmouseout="this.style.color=''">
+            <img class=c-suggestions__img src={{ r1.image }} />
+            <p class='c-suggestions__title'><em>{{ r1.title }}</em></p>
+        </a>
+        <a href='{{ r2.url | prepend: site.baseurl }}' class='c-suggestions-link' style='text-decoration:none; font-size:15px;' onmouseover="this.style.color='#1688f9'" onmouseout="this.style.color=''">
+            <img class=c-suggestions__img src={{ r2.image }} />
+            <p class='c-suggestions__title'><em>{{ r2.title }}</em></p>
+        </a>
+    </div>
+{% elsif page.rec1 %}
+    {% for post in site.categories.viewpoints %}
+        {% if post.title == page.rec1 %}
+            {% assign r1 = post %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% for post in site.categories.science %}
+        {% if r1 %}
+            {% break %}
+        {% endif %}
+        {% if post.title == page.rec1 %}
+            {% assign r1 = post %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    <h5 class='u-text-center'>You might also like:</h5>
+    <div class='c-suggestions' id='suggestions'>
+        <a href='{{ r1.url | prepend: site.baseurl }}' class='c-suggestions-link' style='text-decoration:none; font-size:15px;' onmouseover="this.style.color='#1688f9'" onmouseout="this.style.color=''">
+            <img class=c-suggestions__img src={{ r1.image }} />
+            <p class='c-suggestions__title'><em>{{ r1.title }}</em></p>
+        </a>
+    </div>
+{% endif %}

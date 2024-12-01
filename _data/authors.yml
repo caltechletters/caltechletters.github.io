@@ -1,0 +1,344 @@
+biosphere:
+    name:       Biosphere
+    bio:        is a podcast that captures the curiosity, bewilderment, elation, and occasional frustration that Caltech biologists experience as they study the living world and our part in it.
+    web:        https://caltechletters.org/podcasts/biosphere/
+    email:      biospherepodcast@gmail.com
+    twitter:    LMT_Spoon
+
+not-my-thesis:
+    name:       Not My Thesis
+    bio:        interviews graduate students about what their thesis is, but also what their thesis is not. Listen as we explore science via the hearts and minds creating it.
+    web:        https://caltechletters.org/podcasts/not-my-thesis/
+    email:      notmythesis@gmail.com
+    twitter:    HeidiKlumpe
+
+abdel-haq-reem:
+    name:       Reem Abdel-haq
+    bio:        is a graduate student in Biology at Caltech exploring the connection between diet, the gut microbiome, and Parkinson’s disease. When not in the lab, she can be found at the movies, exploring over-priced coffee shops around LA, kickboxing, or painting.
+    email:      rabdelha@caltech.edu
+    twitter:    MsScientist7
+    web:        https://www.linkedin.com/in/reem-abdel-haq/
+
+joe-marino:
+    name:       Joe Marino
+    bio:        is a PhD student in Computation and Neural Systems at Caltech, working on connecting theories of predictive brain processing with machine learning. He is an avid gardener and enjoys hiking in the mountains.
+    email:      jmarino@caltech.edu
+    web:        http://joelouismarino.github.io
+
+paul-kempler:
+    name:		    Paul Kempler
+    bio:            is a graduate student in Chemical Engineering studying devices which capture solar energy to make chemical fuels under the guidance of Professor Nate Lewis. When he gets tired of watching videos of bubbles, he passes the time by chasing frisbees, writing music and playing with his cat.
+    email:	        paul.kempler@caltech.edu
+    twitter: 	    kemplerwithak
+
+zach-erickson:
+    name:		    Zachary Erickson
+    bio:		    is a Ph.D. Candidate at Caltech in the Division of Geological and Planetary Sciences. He uses autonomous underwater vehicles and remote sensing to conduct research on interactions between biology and physics in the ocean.
+    email:	        zerickso@caltech.edu
+    web:    	    http://web.gps.caltech.edu/~zerickso/
+
+tess-saxton-fox:
+    name:             Tess Saxton-Fox
+    bio:              studied wall-bounded turbulence in the Graduate Aerospace Laboratories at Caltech. Growing up in Massachusetts, she always colored outside the lines, demonstrating a preference for chaos from an early age.
+    email:            tsaxtonf@gmail.com
+    web:              https://tsaxtonf.wixsite.com/home
+
+jackmuir:
+    name:             Jack Muir
+    bio:              is a grad student at Caltech. He is interested in GPS. He grew up in Australia. Australia is a country and continent surrounded by the Indian and Pacific oceans. Its major cities – Sydney, Brisbane, Melbourne, Perth, Adelaide – are coastal. Its capital, Canberra, is inland. The country is known for its Sydney Opera House, the Great Barrier Reef, a vast interior desert wilderness called the Outback, and unique animal species like kangaroos and duck-billed platypuses.
+
+anna-ho:
+    name:             Anna Ho
+    bio:              is a graduate student in astronomy at Caltech. For her research, she uses a <a href="http://www.caltech.edu/news/zwicky-transient-facility-opens-its-eyes-volatile-cosmos-80369" target="_blank">robotic network of telescopes</a> on the ground and in space to investigate the catastrophic deaths of stars (no, not celebrities). Outside her day (night?) job, she can usually be found in some superposition of hiking, exploring LA, telling the public about her research, reading <a href="http://d.lib.rochester.edu/teams/text/staley-book-of-margery-kempe-book-i-part-i" target="_blank">Medieval literature</a>, and learning about <a href="http://sepac.caltech.edu/" target="_blank">science policy</a>.
+
+
+sophie-miller:
+    name:           Sophie Miller
+    bio:            is a second-year graduate student in Professor David Tirrell’s lab in the Department of Chemical Engineering at Caltech. Outside the lab, Sophie plays the baritone saxophone in the Caltech Jazz Band, is an avid rower, plays water polo, and enjoys traveling, cooking, and exploring new food destinations in the LA area.
+    email:          semiller@caltech.edu
+
+olivia-wilkins:
+    name:           Olivia Harper Wilkins
+    bio:            is a PhD candidate in chemistry at Caltech where she uses radio astronomy to tune into the invisible universe and solve some of the mysteries of astrochemistry. Specifically, she is interested in learning how complex organic molecules—considered simple by terrestrial standards—form in the interstellar medium. Olivia is also an artist and enjoys coffee shops and traveling with her partner and their son.
+    email:          owilkins@caltech.edu
+    web:            http://theskyisnotthelimit.org
+    twitter:        livwithoutlimit
+    instagram:      livwithoutlimit
+
+rahul-patel:
+    name:	    Rahul Patel
+    bio:	    is a postdoctoral researcher in astrophysics, at IPAC at Caltech. He is an exoplaneteer and studies the environments in which the planets grow up using space-based and ground-based observatories. He is also a fan of all things Star Wars and Linkin Park.
+    twitter:	DarthPatel
+    web:	    http://astropatel.github.io
+    email:	    ri.patel272@gmail.com
+
+daniel-bowden:
+    name:	    Daniel Bowden
+    bio:	    is a 6th year graduate student in Geophysics (close to graduating), and is committed to finding research that can help the world in practical ways. He also enjoys camping, rock-climbing and reading science fiction.
+    web:	    http://web.gps.caltech.edu/~dbowden/index.html
+    email:	    dbowden@caltech.edu
+
+mike-wong:
+    name:	    Mike Wong
+    bio:	    is a Caltech alumnus (PhD '18, planetary science). He is currently a postdoctoral research associate in the University of Washington's Department of Astronomy and Astrobiology Program and a member of the NASA NExSS Virtual Planetary Laboratory. Mike hosts a podcast called Strange New Worlds, which examines science, technology, and culture through the lens of Star Trek.
+    web:	    http://web.gps.caltech.edu/~mlwong/index.html
+    twitter:	miquai
+    instagram:	miquai
+    email:	    mlwong@caltech.edu
+
+melissa-buttner:
+    name:     Melissa Büttner
+    bio:      is a visiting student from LMU Munich working at the Einstein Papers Project. In Munich she works at the intersection of sociology and history of science, particularly in the field of sexuality. Outside her work, she is a passionate traveler and is probably backpacking somewhere in Mexico by now.
+
+giuliana-viglione:
+    name:     Giuliana Viglione
+    bio:      is a graduate student using underwater robots to study climate change in Antarctica. She was named <a href="https://en.m.wikipedia.org/wiki/You_(Time_Person_of_the_Year)" target="_blank">Time magazine’s Person of the Year</a> in 2006. Likes include pre-industrial levels of atmospheric carbon dioxide and very cold water; dislikes include coral bleaching and gender inequity in STEM.
+    twitter:   GAViglione
+    email:     giuliana@caltech.edu
+    web:       https://www.giulianaviglione.com/
+
+alison-koontz:
+    name:           Alison Koontz
+    bio:            is a Biology graduate student studying questions in developmental biology and stem cell biology, under the guidance of Dr. Marianne Bronner. When she isn't doing science, she can usually be found scribbling poetry, performing in choreopoems, or trying to convince people that existence is just performance art.
+    email:          akoontz@caltech.edu
+
+harriet-brettle:
+    name:           Harriet Brettle
+    bio:            is a planetary science graduate student who is studying Jupiter and its moons. This time last year, Harriet was working at a bank in London. Following a 'quarterlife crisis', she decided to follow her passions for space and moved across the world to begin a PhD at Caltech. When not learning about our awesome solar system, Harriet loves to run/bike in the San Gabriels and chat all things space.
+    email:          hbrettle@caltech.edu
+    web:            https://www.harrietbrettle.com/
+
+elise-cutts:
+    name:           Elise Cutts
+    bio:            is a third year undergraduate at Caltech studying geology. Her past research experience includes modeling the ocean chemistry of Jupiter’s moon Europa and developing methods for studying Martian meteorites using imaging spectroscopy. She is a teaching assistant for Caltech’s courses in introductory biology and astrobiology and hopes to study geobiology in graduate school. Outside of research, Elise enjoys drawing and writing, and wants one day to write scientifically informed science fiction graphic novels.
+    email:          ecutts@caltech.edu
+
+hannah-allen:
+    name:           Hannah Allen
+    bio:            is a 5th year graduate student studying atmospheric chemistry.  Her research focuses on using mass spectrometry to investigate atmospheric chemical phenomena in both the lab and the field. When not conducting research in a windowless sub-basement laboratory or exploring the world with a mass spectrometer in an airplane, she is president of the Science and Engineering Policy at Caltech student club and can be found reading, hiking, or dancing.
+    email:          hallen@caltech.edu
+
+josh-brake:
+    name:           Josh Brake
+    bio:            is an Electrical Engineering PhD student in the <a href="http://www.biophot.caltech.edu/" target="_blank">Caltech Biophotonics Lab</a> under the direction of Prof. Changhuei Yang. When he’s not in the lab building new optical instruments, you’re likely to find him somewhere running or cycling outside, enjoying the beautiful Southern California sunshine while listening to podcasts on philosophy, theology, or technology.
+    email:          jbrake@caltech.edu
+    web:            http://www.joshbrake.com
+    twitter:        JoshuaBrake
+
+stacy-larochelle:
+    name:           Stacy Larochelle
+    bio:            is a PhD student in geophysics with a keen interest in the various interactions of liquid water with the solid earth. Other interests include good laughs, warm weather, and maple syrup.
+    email:          stacy.larochelle@caltech.edu
+
+dan-johnson:
+    name:           Dan Johnson
+    bio:            uses the chemistry of sediments, rocks, and the waters associated with them to understand how climate and life have changed over Earth’s history. He is an avid hiker and national park enthusiast who enjoys organizing events through Caltech’s graduate student government, drinking craft beer, and talking about his latest pop music obsession - Ariana Grande.
+    email:          dljohnso@caltech.edu
+
+gregory-donaldson:
+    name:           Gregory Donaldson
+    bio:            is a former graduate student (PhD ’18) and perennial performer in the Caltech Dance Show. He is now a postdoctoral fellow at the Rockefeller University, where he continues to study interactions between the immune system and commensal gut bacteria.
+    email:          gdonaldson@rockefeller.edu
+
+vijay-varma:
+    name:           Vijay Varma
+    bio:            is a Physics graduate student working on gravitational waves. Vijay uses supercomputers to simulate orbiting black holes and build models for signals seen by detectors. When not thinking about how weird black holes are, Vijay likes to read, travel, and try IPAs, but mainly try IPAs.
+    email:          vvarma@caltech.edu
+    web:            http://www.tapir.caltech.edu/~vvarma/
+    twitter:        vijay_x_varma
+
+riley-galton:
+    name:           Riley Galton
+    bio:            is a new mom and a biology PhD student studying cell migration during early embryonic development. If she ever has free time again, she will likely spend it making art, rock climbing with her husband, or enjoying wine and cheese with her friends.
+    email:          rgalton@caltech.edu
+
+dustin-morris:
+    name:           Dustin Morris
+    bio:            is a field geologist interested in using the record preserved in ancient rocks to study large transitions in climate and life in Earth’s deep past. When not looking at rocks, Dustin is finding other excuses to be outside—like bicycling, hiking, and rock climbing, or showing off some swing-dance moves.
+    email:          dkmorris@caltech.edu
+
+noah-olsman:
+    name:           Noah Olsman
+    bio:            is a control theorist interested in understanding the functional behavior of the basic components of life. His research applies mathematical ideas from engineering to the study of molecular biology. Previously at Caltech, he is currently a post-doc in the lab of Johan Paulsson in the Department of Systems Biology at Harvard Medical School.
+    email:          noah.olsman@gmail.com
+
+matt-orr:
+    name:           Matt Orr
+    bio:            is a graduating 5th year Ph.D. student in Physics.   In his spare time, he enjoys fine woodworking, IM softball and volleyball, and the poetry of Robert Burns.
+    email:          meorr@caltech.edu
+    web:            http://www.its.caltech.edu/~meorr/index.html
+jack-muir:
+    name:           Jack Muir
+    bio:            is a PhD student in Geophysics. He investigates new ways to make better images of the inside of the Earth. When he manages to escape his codependent relationship with his laptop, Jack likes to explore the mountains of Southern California.
+    email:          jmuir@caltech.edu
+
+maximiliano-isi:
+    name:           Maximiliano Isi
+    bio:            obtained his PhD in Physics from Caltech in 2018, working on the LIGO experiment. He is currently a NASA Einstein Fellow at MIT, where he continues to study gravitational waves and their implications for fundamental physics. Max also spends time at the Flatiron Institute in New York, where he is a visiting associate. Besides science, he enjoys classical music, philosophy and politics.
+    email:          misi@ligo.caltech.edu
+    web:            http://maxisi.me
+    twitter:        maxisi
+
+aida-behmard:
+    name:           Aida Behmard
+    bio:            is a Planetary Science graduate student studying the physical and chemical conditions of planetary formation. She has a cat named Interstellar Medium (“Izzy”).
+    email:          abehmard@caltech.edu
+    web:            https://www.aidabehmard.com/
+    twitter:        abehmard
+ollie-stephenson:
+    name:           Ollie Stephenson
+    bio:            is a graduate student in geophysics at Caltech and a cofounder and former editor-in-chief of Caltech Letters. Originally hailing from Devon, England, he came to California in search of sun and earthquakes. He uses satellites to measure tiny motions in the Earth’s crust and large computers to simulate even larger ruptures.
+    email:          olstephe@caltech.edu
+    twitter:        seismolliegist
+
+ivanna-escala:
+    name:           Ivanna Escala
+    bio:            is a finishing PhD student in astrophysics at Caltech. She is an expert in measuring the chemical composition of stars in the Andromeda galaxy to trace the history of how it formed. In her free time, she enjoys trail running, cooking tasty vegan food, and reading science-fiction novels.
+    email:          iescala@caltech.edu
+
+nicholas-mccarty:
+    name:           Nicholas McCarty
+    bio:            received a masters degree in bioengineering from Caltech in 2020, where he studied bacterial gene regulation in Rob Phillips' lab. Niko lives in New York.
+    email:          nsmccarty3@gmail.com
+
+sean-mullin:
+    name:           Sean Mullin
+    bio:            "is a Ph.D. student in geobiology studying deep life of all kinds, from the ocean floor to miles underground. When not thinking deep thoughts, he lives a shadow life as a musician, coffee snob, and nerdy game enthusiast. He describes the organisms of the deep biosphere as the ultimate hipsters: bizarre, self-isolated, and you’ve definitely never heard of them."
+    email:          seanwamullin@gmail.com
+
+jonathan-chan:
+    name:           Jonathan Chan
+    bio:            is an undergraduate senior majoring in Chemistry. As an Outreach Coordinator for Caltech’s Chemistry Club and Editor-in-Chief of the Caltech Undergraduate Research Journal, Jonathan is passionate about getting kids of all ages interested in science.
+    email:          jkchan@caltech.edu
+
+camilla-penney:
+    name:           Camilla Penney
+    bio:            is a Junior Research Fellow in Earth Sciences at Queens' College, University of Cambridge, UK and a visiting postdoctoral scholar at Caltech Seismolab. She studies earthquakes and how they shape our lives and landscapes, mostly in places which are difficult to go to. As well as researching mountains, she spends her spare time hiking, running, and camping in them (at Caltech) or trying to work out how to get to them (from Cambridge).
+    email:          penney@caltech.edu
+    twitter:        camillapenney
+
+sam-clamons:
+    name:           Samuel Clamons
+    bio:            is a PhD candidate in Bioengineering at Caltech. He designs synthetic biocircuits and studies the limits of modern bacterial synthetic biology techologies. Outside of the lab, he spends his time writing science fact and science fiction, and caring for shrimp, ants, praying mantis, and other miscellaneous invertebrates.
+    email:          sclamons@caltech.edu
+    web:        https://medium.com/@samredhaired/today-i-learned-index-5b9d39f41c3b
+
+hannah-dion-kirschner:
+    name:           Hannah Dion-Kirschner
+    bio:            is a geobiology graduate student exploring the relationships between geology, climate, and life over Earth’s history. She would like someone to please create a VR simulation so she can walk through a Paleozoic forest. She loves reading, hiking, and her cats.
+    email:          hdionkir@caltech.edu
+
+sophia-charan:
+    name:           Sophia Charan
+    bio:            is a chemical engineering graduate student at Caltech, where she studies air quality by investigating the chemistry and dynamics of organic aerosol formation. Sophia works in Linde+Robinson Laboratory and occasionally gives tours on the building's architecture and history.
+    email:          scharan@caltech.edu
+    twitter:        sopcharan
+
+suzy-beeler:
+    name:           Suzy Beeler
+    bio:            is currently working towards her PhD in Rob Phillips' lab, studying gene regulation at the interface of biology and physics. Outside of the lab she enjoys being a teaching assistant for many classes both on and off campus.
+    email:          sbeeler@caltech.edu
+    twitter:        suzy_beeler
+
+porfirio-quintero:
+    name:           Porfirio Quintero
+    bio:            is a computational biologist at FL59 Inc, where he’s trying to leverage RNA biology to develop therapeutics. He is also a recent PhD graduate from the Biology department at Caltech. To take a break from RNAs, he’s fond of philosophical discussions, and Nintendo Super Smash.
+    email:          porfirioqc@gmail.com
+
+sarah-zeichner:
+    name:           Sarah Zeichner
+    bio:            is a PhD student in geochemistry, working to better understand the origin of life through her research. When she is not in the lab, she can be found running in the San Gabriel mountains, experimenting with new recipes, creating art, and gardening.
+    email:          szeichner@caltech.edu
+
+renee-wang:
+    name:           Renée Wang
+    bio:            is a PhD Candidate in Geochemistry applying traditional Earth Science tools and techniques to new fields, like chronic bacterial infections in humans. She is interested in engaging in new Asian American narratives, and is an avid open-water swimmer.
+    email:          rzwang@caltech.edu
+
+shiyu-zhang:
+    name:           Shiyu Zhang
+    bio:            is a graduate student from the social science division at Caltech. In her spare time, she loves to snowboard, drink wine, and ponder on the big questions of life.
+    email:          szzhang@caltech.edu
+
+tookmanian-elise:
+    name:           Elise Tookmanian
+    bio:            is a Chemistry graduate student studying how specific membrane components protect bacteria under stressful conditions. To manage her own stress, she stays active with soccer or rock climbing, pets her cat, eats food with friends, and goes to therapy.
+    email:          etookman@caltech.edu
+    twitter:        tookmaniac
+
+jiseon-min:
+    name:           Jiseon Min
+    bio:            is a graduate student in the Amir group and Desai lab at Harvard University. Before drifting toward applied math and biology, she studied physics as an undergraduate at Caltech. She builds mathematical models to understand complex population dynamics.
+
+phelan-yu:
+    name:           Phelan Yu
+    bio:            currently serves as editor-in-chief for Caltech Letters. He is a graduate student in (molecular) physics, working on ultracold matter, quantum sensing, and precision spectroscopy. A transplant from the Northeast, Phelan spends his free time hiking, reading, and being confused about the seasons.
+    email:          phelanyu@caltech.edu
+    twitter:        phelanyu
+
+shannon-esswein:
+    name:           Shannon Esswein
+    bio:            is an MD-PhD Candidate in the UCLA-Caltech Medical Scientist Training Program studying the structure of viruses and immune response to infection. Outside the lab, she enjoys writing, piano, rock climbing, and supporting women in STEM.
+    email:          sesswein@caltech.edu
+    web:            https://www.linkedin.com/in/shannon-esswein/
+    twitter:        ShannonEsswein
+
+piero-chiappina:
+    name:           Piero Chiappina
+    bio:            is a physics PhD student at Caltech. He builds devices that could one day be the building blocks of a quantum computer. In his free time, Piero likes to surf, play the drums, and grow his hair out.
+    email:          pchiappi@caltech.edu
+    twitter:        perochiappina
+
+fayth-tan:
+    name:           Fayth Tan
+    bio:            is a graduate student in biology at Caltech studying the evolution of animal regeneration. When not attempting to replicate 19th century experiments in the lab, they like to dabble in weird science history and literature.
+
+siobhan-macardle:
+    name:           Siobhán MacArdle
+    bio:            is a PhD candidate in biochemistry studying Nitrogenase; however, she's long been interested in the biochemistry of fermentation and distillation since her undergraduate education, and worked as a distilling intern at King’s County Whiskey Distillery in Brooklyn. She shares her years of independent research on the chemistry and biology behind the making and tasting of beer, wine, and spirits on her Instagram account, Periodically Drinking Chemicals.
+    instagram:      periodicallydrinkingchemicals
+    email:          smacardl@caltech.edu
+
+cora-went:
+    name:           Cora Went
+    bio:            is a physics PhD student who does research on solar energy to combat climate change. For the past year, she has worked to promote building electrification through representing the Sunrise Movement Los Angeles on the SoCal Building Electrification Coalition.
+    email:          cwent@caltech.edu
+    twitter:        corawentwhere
+
+lev-tsypin:
+    name:           Lev Tsypin
+    bio:            is a fifth-year graduate student in Biology. As part of his activism on campus, he co-runs an antiracism discussion group in his lab and co-authored a critical report on Caltech's COVID-19 response in 2020. He co-created the Biosphere podcast for Caltech Letters. He loves very tiny things, very big things, very regular things, and magic tricks.
+    twitter:        LMT_Spoon
+
+skyler-ware:
+    name:           Skyler Ware
+    bio:            currently serves as managing editor for Caltech Letters. A graduate student in chemistry at Caltech, Skyler studies batteries and chemical reactions that are driven by electricity. In her free time, she enjoys hiking, playing tabletop RPGs, and reading science fiction.
+
+kian-faizi:
+    name:           Kian Faizi
+    bio:            is a biology PhD student at Caltech. He studies how the tiniest bacteria adapt to changing environments — and the ways humans are reshaping their own. Outside the lab, he likes hiking, thrift stores, and stopping to pet people's dogs.
+    twitter:        kianfaizi
+
+sharon-chen:
+    name:           Sharon Chen
+    bio:            is a software engineer at Nextdoor. As a graduate student at Caltech, she explored the neuro- computational basis of emotion and behavior. She has made a novel-writing website and has written a novel on it, and she is a fan of a band that is an anagram of “I’m fearless” (LE SSERAFIM) as well as BTS and other artists.
+    twitter:        sharon_chen_twt
+
+kaustav-das:
+    name:           Kaustav Das
+    bio:            is a graduate student in the astronomy department at Caltech. He studies things that go boom in the night sky, with a focus on understanding magnificent stellar deaths called supernovae. From his undergraduate days, he has been involved in various outreach events, specially targeted for underprivileged kids. Outside work, you will find him in chess tournaments or curled up on his sofa binging sitcoms!
+    instagram:      kaustav_astro
+
+jadzia-livingston:
+    name:           Jadzia Livingston
+    bio:            is a microbiologist and Fulbright Scholar who graduated from Caltech in 2020. As a Caltech student she was Co-President of the Title IX Council and Co-Director of Out of Context. Inside and outside the lab, she advocates for the rights of marginalized people in STEM.
+
+skyler-ware:
+    name:           Skyler Ware
+    bio:            is a graduate student in chemistry at Caltech. She studies batteries and chemical reactions that are driven by electricity. In her free time, she enjoys hiking, playing tabletop RPGs, and reading science fiction. She is the current Managing Editor of Caltech Letters.
+
+c-gpu:
+    name:           C/GPU
+    bio:            (Caltech Grad Researchers and Postdocs United) is an organization by, of, and for Caltech Graduate Researchers and Postdocs who want to unionize in order to improve our teaching, research, and employment experience at Caltech. Our work not only benefits the university and the California economy, but also has positive impacts worldwide. We work in many different fields and have varied experiences, but our dedication to teaching and research unites us all.
+    twitter:        cgpu_uaw
+    instagram:      cgpu_uaw

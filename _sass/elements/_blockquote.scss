@@ -1,0 +1,33 @@
+/*------------------------------------*\
+  Elements > Blockquote
+\*------------------------------------*/
+
+
+  blockquote {
+    width: 100%;
+    padding: 36px 50px;
+    position: relative;
+    background: #f9f9f9;
+    margin-bottom: 48px;
+    p {
+      margin-bottom: 0 !important;
+      font-style: italic;
+      text-align: center;
+      font-size: $font-size-large !important;
+      &::before, &::after {
+      	color: #ccc;
+      	font-size: 5em;
+        position: absolute;
+      }
+      &::before {
+        top: 20px;
+        left: 0px;
+        content: open-quote;
+      }
+      &::after {
+        right: 30px;
+        content: close-quote;
+        bottom: -55px;
+      }
+    }
+  }
