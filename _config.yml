@@ -8,9 +8,10 @@
 # Site settings
 title:              Caltech Letters
 email:              letters@caltech.edu
+domain:             caltechletters.github.io
 description:        "Caltech's science out of the lab and into context"
-baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://caltechletters.org' # The base hostname & protocol for your site
+# baseurl:            '' # The subpath of your site, e.g. /blog
+url:                https://caltechletters.github.io # The base hostname & protocol for your site
 facebook_username:  caltechletters
 twitter_username:   caltechletters
 instagram_username: caltechletters
