@@ -12,6 +12,6 @@ published: true
 
 Biosphere is a podcast that captures the curiosity, bewilderment, elation, and occasional frustration that we, Caltech Biology PhD students, experience as scientists. In every episode of Biosphere, we have unscripted discussions about the living world and our part in it. If you've ever wondered how things like poetic justice, fitting in, and instability manifest themselves in the biologist's eye, join the conversation with Biosphere.
 
-- Find us on <a href="https://caltechletters.org/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, iTunes, and Spotify
+- Find us on <a href="https://caltechletters.github.io/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, iTunes, and Spotify
 - Contact us at [biospherepodcast@gmail.com](mailto:biospherepodcast@gmail.com)
 - Tweet us <a href="https://twitter.com/LMT_Spoon" target="_blank">@LMT_Spoon</a>

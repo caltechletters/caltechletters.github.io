@@ -13,7 +13,7 @@ rec3: "How the Model Minority Myth Harms Us All"
 ---
 {% include embed-image.html image='/media/posts/2022-01-11-orchids-science-and-culture/2022-01-11-orchid-cover-image.jpg' caption='' credit='<a href="https://www.sarahzeichner.com/art" target="_blank"> Illustration by Sarah Zeichner for Caltech Letters</a>' %}
 
-*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 > *There are such queer things about orchids. Such possibilities of surprises.*
 >

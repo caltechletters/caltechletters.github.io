@@ -14,7 +14,7 @@ rec3: "Geologists and the Earth: Building a Better Symbiosis"
 
 {% include embed-image.html image='/media/posts/2022-11-01-in-defense-of-basic-science/cover.png' caption='' credit='Illustration by <a href="https://www.ceciliaandthebedofbones.com/" target="_blank">Cecilia Sanders</a> for Caltech Letters' %}
 
-*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 > *If you want to build a ship, don’t herd people together to collect wood, and don’t assign them tasks and work. Instead, teach them to long for the endless immensity of the sea.*
 >

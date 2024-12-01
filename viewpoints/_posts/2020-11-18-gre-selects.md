@@ -13,7 +13,7 @@ rec2: "Growing Galaxies on your Laptop"
 rec3: 'Automating the Art of Making Molecules'
 ---
 
-<span></span>*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+<span></span>*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 > *I hold that policy is our chief danger at the present moment.*
 >

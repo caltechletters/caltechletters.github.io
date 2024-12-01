@@ -15,7 +15,7 @@ rec3: "The Problems with Programming Biology: Bacteria vs. Engineering"
 
 {% include embed-image.html image='/media/posts/2020-03-10-music-and-science/cover.jpg' credit='Illustration by Cecilia Sanders for Caltech Letters' %}
 
-<span></span>*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+<span></span>*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 <span class="first-letter">G</span>rowing up, I had only a fuzzy idea of what "being a scientist" looked like. Mostly it seemed to involve wearing a long white coat and knowing a lot of facts about nature, doing complicated math on a chalkboard and mixing dangerous chemicals in exact proportions. I could never have imagined myself as a scientist, because what I loved most was the exact opposite: reading, drawing, and most of all music.
 

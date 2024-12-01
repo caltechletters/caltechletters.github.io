@@ -14,7 +14,7 @@ rec3: "A History of Color"
 
 {% include embed-image.html image='/media/posts/2023-01-17-dungeons-dragons-outreach/cover.jpg' caption='' credit='Illustration by Jennah Colborn for Caltech Letters' %}
 
-*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 
 <span class="first-letter">E</span>very Friday, I run a Dungeons & Dragons adventure at my local game shop. It’s one of my favorite ways to meet people outside of Caltech. Armed with bags of dice in every color imaginable, I guide players through zany high-fantasy tales and lay out puzzles for our team of intrepid heroes to solve.

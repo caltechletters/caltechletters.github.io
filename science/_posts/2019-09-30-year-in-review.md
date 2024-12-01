@@ -14,14 +14,14 @@ rec3: "Non-Utilitarian Scientific Ethics"
 
 We’re celebrating our first full academic year of sharing amazing science!
 
-In the past year and a half, Caltech Letters has published 29 stories from the Caltech community, with topics ranging from the [microscopic](https://caltechletters.org/science/intimate-allies) to the [interstellar](https://caltechletters.org/science/black-hole-ripples).
+In the past year and a half, Caltech Letters has published 29 stories from the Caltech community, with topics ranging from the [microscopic](https://caltechletters.github.io/science/intimate-allies) to the [interstellar](https://caltechletters.github.io/science/black-hole-ripples).
 
 Although all of our publications are worthy of their own praise, we’ve rounded up some of our favorites (in no particular order) to give you a taste of what Caltech Letters has to offer.
 
 In the past year and a half our community has:
 
 
-### [**Given Voice to Graduate Student Parents**](https://caltechletters.org/viewpoints/grad-student-parents)
+### [**Given Voice to Graduate Student Parents**](https://caltechletters.github.io/viewpoints/grad-student-parents)
 
 {% include embed-image.html image='/media/posts/2019-04-02-grad-student-parents/in-lab.jpeg' caption='Riley and her baby, busy at the microscope.' credit='Riley Galton' %}
 
@@ -32,10 +32,10 @@ This article poses important questions about how academia treats parenthood and 
 
 The response to this article was so great, that Riley was asked to write a [companion piece in Science Magazine](https://www.sciencemag.org/careers/2019/09/universities-need-do-more-support-grad-student-parents?fbclid=IwAR2nS0fxKczjMRrbQCQpQ8xllPkl_4htxprc2pzA6ITDGoqRyZ0oXmtt3rY)! Go Riley!
 
-[FULL STORY HERE](https://caltechletters.org/viewpoints/grad-student-parents)
+[FULL STORY HERE](https://caltechletters.github.io/viewpoints/grad-student-parents)
 
 
-### [**Used Robots to Untangle the Ocean’s Currents**](https://caltechletters.org/science/antarctic-robots)
+### [**Used Robots to Untangle the Ocean’s Currents**](https://caltechletters.github.io/science/antarctic-robots)
 
 {% include embed-image.html image='/media/posts/2019yearinreview/image_1.jpg' caption= 'Caltech alum and Caltech Letters editor Giuliana Viglione aboard a research vessel in Antarctica.' credit='Giuliana Viglione' %}
 
@@ -45,19 +45,19 @@ The Southern Ocean is a unique mixture of the world’s large bodies of water, a
 
 This piece was later published in [Caltech Magazine](https://magazine.caltech.edu/post/robots-in-the-deep). Giuliana has since graduated and is continuing her career as a science communicator as an Editorial Fellow at Chemical & Engineering News.
 
-[FULL STORY HERE](https://caltechletters.org/science/antarctic-robots)
+[FULL STORY HERE](https://caltechletters.github.io/science/antarctic-robots)
 
 
-### [**Found Parallels Between Science and Art**](https://caltechletters.org/science/history-of-color-1)
+### [**Found Parallels Between Science and Art**](https://caltechletters.github.io/science/history-of-color-1)
 
 {% include embed-image.html image='/media/posts/2019yearinreview/image_2.jpg' caption= '' credit='' %}
 
 Alison Koontz (oh wait that’s me!) published a 3-part series for Caltech Letters looking into the pinnacle discoveries that helped humans untangle the mystery of colors, and how both the arts and sciences were integral in making these discoveries. Beginning with "A Brief History of Color," the series continues on to delve into experiments done in both the arts and sciences on color perception, and later deals with how colors are made by both nature and by humans.
 
-[FULL STORY HERE](https://caltechletters.org/science/history-of-color-1)
+[FULL STORY HERE](https://caltechletters.github.io/science/history-of-color-1)
 
 
-### [**Unraveled the Mind of Albert Einstein**](https://caltechletters.org/science/approaching-a-genius) 
+### [**Unraveled the Mind of Albert Einstein**](https://caltechletters.github.io/science/approaching-a-genius) 
 
 {% include embed-image.html image='/media/posts/2019yearinreview/image_3.jpg' %}
 
@@ -71,10 +71,10 @@ The Einstein Paper Projects has also been shining a light on some of Einstein’
 
 This piece is both a beautiful look into the mind of a famous genius, and a haunting reminder of the problems that still face academics today.
 
-[FULL STORY HERE](https://caltechletters.org/science/approaching-a-genius)
+[FULL STORY HERE](https://caltechletters.github.io/science/approaching-a-genius)
 
 
-### [**Tested General Relativity Using Black Holes**](https://caltechletters.org/science/black-hole-ripples)
+### [**Tested General Relativity Using Black Holes**](https://caltechletters.github.io/science/black-hole-ripples)
 
 {% include embed-image.html image='/media/posts/2019yearinreview/image_4.jpg' caption = 'Artist’s rendition of two merging black holes similar to those detected by LIGO' credit='Modified from LIGO/Caltech/MIT/Sonoma State (Aurore Simonnet)'%}
 
@@ -82,7 +82,7 @@ On September 14, 2015 gravitational waves were detected for the very first time 
 
 One of the major uses of gravitational wave detection is the capacity to test Einstein’s general theory of relativity, a theory that is revolutionary but still notably incomplete. By measuring the gravitational waves created by colliding black holes and the waves of the resulting merged black hole, physicists like Vijay can directly test Einstein’s theory.
 
-[FULL STORY HERE](https://caltechletters.org/science/black-hole-ripples)
+[FULL STORY HERE](https://caltechletters.github.io/science/black-hole-ripples)
 
 
 **Here's To a New Year!**

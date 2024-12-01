@@ -17,7 +17,7 @@ It’s easy to think of socially rich cultures as a uniquely human phenomenon. H
 
 Aditi, John, Julian, and Lev also discuss how fitting in and academic lab culture influenced how they picked their research group for graduate school.
 
-- Find us on <a href="https://caltechletters.org/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, <a href="https://podcasts.apple.com/us/podcast/caltech-letters/id1490801437" target="_blank">Apple Podcasts</a>, and <a href="https://open.spotify.com/show/3yofTYbe1OWjzUAYHKPdzv" target="_blank">Spotify</a>.
+- Find us on <a href="https://caltechletters.github.io/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, <a href="https://podcasts.apple.com/us/podcast/caltech-letters/id1490801437" target="_blank">Apple Podcasts</a>, and <a href="https://open.spotify.com/show/3yofTYbe1OWjzUAYHKPdzv" target="_blank">Spotify</a>.
 - Contact us at [biospherepodcast@gmail.com](mailto:biospherepodcast@gmail.com)
 - Tweet Lev <a href="https://twitter.com/LMT_Spoon" target="_blank">@LMT_Spoon</a>
 - <a href="https://splasho.com/upgoer5/" target="_blank">Upgoer5 editor</a>

@@ -13,7 +13,7 @@ rec3: 'How Earthquakes Shape our Landscape'
 ---
 {% include embed-image.html image='/media/posts/2021-02-09-model-minority-myth/coverimage1.jpg' caption='' credit='Illustration by Emma Sosa, Graduate Student in GPS, for Caltech Letters' %}
 
-*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
  <span class="first-letter">W</span>hen I was in elementary school, my mom volunteered to help with Math Olympiad. I already knew that I was good at art, so I was excited to show off my math skills for her. I would not be able to articulate why until much later in life, but for some reason I just thought that I _should_ and _would_ be good at math. But on Math Olympiad day, I couldn’t do any of the worksheets, and my humiliation grew until the hour was over. To this day, being asked to calculate something on the fly ties a knot in my stomach.
 

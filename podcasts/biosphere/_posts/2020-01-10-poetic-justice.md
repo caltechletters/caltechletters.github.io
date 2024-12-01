@@ -20,7 +20,7 @@ Find more examples of the wasps’ weird reproduction, called parthenogenesis, o
 
 You can also check out the books and show mentioned: <i>I Contain Multitudes</i> by Ed Yong, <i>Intuition</i> by Allegra Goodman, <i>Solaris</i> by Stanisław Lem, and “Planet Earth” by BBC America.
 
-- Find us on <a href="https://caltechletters.org/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, <a href="https://podcasts.apple.com/us/podcast/caltech-letters/id1490801437" target="_blank">Apple Podcasts</a>, and <a href="https://open.spotify.com/show/3yofTYbe1OWjzUAYHKPdzv" target="_blank">Spotify</a>.
+- Find us on <a href="https://caltechletters.github.io/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, <a href="https://podcasts.apple.com/us/podcast/caltech-letters/id1490801437" target="_blank">Apple Podcasts</a>, and <a href="https://open.spotify.com/show/3yofTYbe1OWjzUAYHKPdzv" target="_blank">Spotify</a>.
 - Contact us at [biospherepodcast@gmail.com](mailto:biospherepodcast@gmail.com)
 - Tweet Lev <a href="https://twitter.com/LMT_Spoon" target="_blank">@LMT_Spoon</a>
 - <a href="https://splasho.com/upgoer5/" target="_blank">Upgoer5 editor</a>

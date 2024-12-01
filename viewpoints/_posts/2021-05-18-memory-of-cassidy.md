@@ -12,7 +12,7 @@ rec2: Snowballs in the Desert
 rec3: The Autonomous Future of Science
 ---
 
-*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 {% include embed-image.html image='/media/posts/2021-05-18-memory-of-cassidy/Cassidy_1.jpg'%}
 

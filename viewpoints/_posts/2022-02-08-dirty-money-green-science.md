@@ -13,7 +13,7 @@ rec3: "Taking Science Education Virtual"
 ---
 {% include embed-image.html image='/media/posts/2022-02-08-dirty-money-green-science/gasmoney2.png' caption='' credit='Illustration by Isabel Swafford for Caltech Letters' %}
 
-*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 
 My favorite place on Earth is a secluded tributary to the Tuolumne River in Yosemite National Park, California. In the fall, the river becomes a trickle of water between emerald pools carved into the granite—the perfect swimming holes. I have gone backpacking there most years since high school. Yet for the past few autumns, raging wildfires, [driven by climate change](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EF001210){:target="_blank"}, have forced me to cancel the trip. With climate change, it has become hard to imagine a future in which I am able to return to this yearly tradition. If this future exists, it depends on a steep drawdown of carbon dioxide emissions driven by a combination of policy changes and technological innovations.

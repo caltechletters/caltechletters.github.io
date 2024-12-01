@@ -13,7 +13,7 @@ rec2: 'All the World’s a Stage: Bridging My Experiences in Science and Music'
 rec3: "Human-induced Earthquakes: A Blessing and a Curse"
 ---
 
-<span></span>*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+<span></span>*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 <span class="first-letter">G</span>raduate school is challenging, almost by definition. To many, the thought of getting a PhD conjures up images of endless work days that turn into late, sleepless nights in lab as experiments fail to go as planned. Or of several years living in a tiny apartment, pinching pennies in order to pursue an elusive dream. 
 

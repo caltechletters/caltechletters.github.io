@@ -1,14 +1,14 @@
 biosphere:
     name:       Biosphere
     bio:        is a podcast that captures the curiosity, bewilderment, elation, and occasional frustration that Caltech biologists experience as they study the living world and our part in it.
-    web:        https://caltechletters.org/podcasts/biosphere/
+    web:        https://caltechletters.github.io/podcasts/biosphere/
     email:      biospherepodcast@gmail.com
     twitter:    LMT_Spoon
 
 not-my-thesis:
     name:       Not My Thesis
     bio:        interviews graduate students about what their thesis is, but also what their thesis is not. Listen as we explore science via the hearts and minds creating it.
-    web:        https://caltechletters.org/podcasts/not-my-thesis/
+    web:        https://caltechletters.github.io/podcasts/not-my-thesis/
     email:      notmythesis@gmail.com
     twitter:    HeidiKlumpe
 

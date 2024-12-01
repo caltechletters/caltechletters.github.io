@@ -14,7 +14,7 @@ rec3: "Mental Health, Graduate School, and Why We Need to Talk About It"
 
 {% include embed-image.html image='/media/posts/2023-09-04-we-do-our-homework/cover.jpg' caption='' credit='Courtesy of C/GPU' %}
 
-*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.org/disclaimer/){:target="_blank"}.*
+*Viewpoint articles are a vehicle for members of the Caltech community to express their opinions on issues surrounding the interface of science and society. The views expressed here do not necessarily reflect the views of Caltech or the editorial board of Caltech Letters. Please see [our disclaimer](https://caltechletters.github.io/disclaimer/){:target="_blank"}.*
 
 <span class="first-letter">S</span>cience is a labor of love—love of discovery, and love of pushing the limits of current human knowledge and ability. As graduate student and postdoctoral workers at Caltech, we nourish our cell culture lines on weekends, stay up all night observing through telescopes, spend hours welding devices, and travel long distances to study our world. We care deeply about our science, and we want the best environment in which to do that science. 
 

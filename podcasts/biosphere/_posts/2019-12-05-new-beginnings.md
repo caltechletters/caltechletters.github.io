@@ -20,7 +20,7 @@ To address new beginnings in research, Aditi, John, Julian, and Lev discuss thei
 
 You can learn about the discovery of <i>E. fishelsoni</i> in the <a href="https://www.nytimes.com/1993/03/18/us/in-the-world-of-bacteria-a-behemoth.html" target="_blank">New York Times</a>. For more about bacteria giving birth to live young and reproducing in other weird ways, check out <a href="https://micro.cornell.edu/research/epulopiscium/binary-fission-and-other-forms-reproduction-bacteria/" target="_blank">this research</a> from Cornell University.
 
-- Find us on <a href="https://caltechletters.org/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, <a href="https://podcasts.apple.com/us/podcast/caltech-letters/id1490801437" target="_blank">Apple Podcasts</a>, and <a href="https://open.spotify.com/show/3yofTYbe1OWjzUAYHKPdzv" target="_blank">Spotify</a>.
+- Find us on <a href="https://caltechletters.github.io/podcasts/" target="_blank">Caltech Letters</a>, <a href="https://soundcloud.com/caltechletters" target="_blank">SoundCloud</a>, <a href="https://podcasts.apple.com/us/podcast/caltech-letters/id1490801437" target="_blank">Apple Podcasts</a>, and <a href="https://open.spotify.com/show/3yofTYbe1OWjzUAYHKPdzv" target="_blank">Spotify</a>.
 - Contact us at [biospherepodcast@gmail.com](mailto:biospherepodcast@gmail.com)
 - Tweet us <a href="https://twitter.com/LMT_Spoon" target="_blank">@LMT_Spoon</a>
 
