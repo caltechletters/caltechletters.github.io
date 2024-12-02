@@ -37,7 +37,7 @@ td.headshot {
   <tr>
     <td class="headshot"><img class="headshot" src="/media/headshots/board/bernstein-jeremy.png"></td>
     <td class="project-description">
-      <b>Jeremy Bernstein — Editor and Website Designer</b><a href='https://jeremybernste.in' target="_blank"><span class='c-social-nav__icon' data-icon='ei-link' data-size='s'></span></a><a href='https://twitter.com/jxbz' target="_blank"><span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span></a><br>
+      <b>Jeremy Bernstein — Editor-at-Large, Technical Designer, Founding Member</b><a href='https://jeremybernste.in' target="_blank"><span class='c-social-nav__icon' data-icon='ei-link' data-size='s'></span></a><a href='https://twitter.com/jxbz' target="_blank"><span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span></a><br>
     </td>
   </tr>
   <tr>
